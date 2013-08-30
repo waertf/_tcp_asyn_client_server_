@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcp_asyn_server_test", "tcp_asyn_client_server_test\tcp_asyn_server_test.csproj", "{0966A474-A699-4C92-B646-7C2F6546B953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcp_asyn_client_test", "tcp_asyn_client_test\tcp_asyn_client_test.csproj", "{23DB3916-A486-4794-9D69-0E700D9B6B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0966A474-A699-4C92-B646-7C2F6546B953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0966A474-A699-4C92-B646-7C2F6546B953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0966A474-A699-4C92-B646-7C2F6546B953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0966A474-A699-4C92-B646-7C2F6546B953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DB3916-A486-4794-9D69-0E700D9B6B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DB3916-A486-4794-9D69-0E700D9B6B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DB3916-A486-4794-9D69-0E700D9B6B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DB3916-A486-4794-9D69-0E700D9B6B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
